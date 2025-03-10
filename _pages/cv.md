@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Biostatistics, University of Texas Health Science Center, Houston, 2026 (expected)
 * M.S. in Biostatistics, New York University, New York, 2018
-* B.S. in Pharmaceuatical Engineering, Southeast University, Nanjing, China, 2016
+* B.S. in Pharmaceuatical Engineering, Southeast University, Nanjing, 2016
 
 Work experience
 ======
@@ -29,12 +29,5 @@ Work experience
   
 Skills
 ======
-* R
-* SAS
-* Python
-* SQL
-* GIT
-* Bash
-* Linux
-
+* R, SAS, Python, SQL, Git, Bash, Linux 
 
