@@ -28,7 +28,7 @@ author:
   bio              : "PhD student in Biostatistics"
   location         : "Houston,TX"
   employer         : "UThealth"
-  employer         : "MD Anderson Cancer Center"
+  #employer         : "MD Anderson Cancer Center"
   uri              : # URL
   email            : "nkui@mdanderson.org" 
 
