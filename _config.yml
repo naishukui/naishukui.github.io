@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Naishu Kui"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Houston"
-  employer         : "University of Texas Health Science Center | MD Anderson Cancer Center"
+  bio              : "PhD student in Biostatistics"
+  location         : "Houston,TX"
+  employer         : "UThealth | MD Anderson Cancer Center"
   uri              : # URL
   email            : "nkui@mdanderson.org" 
 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6091-9906"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/naishu-kui-6a6a31126/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
