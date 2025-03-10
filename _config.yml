@@ -27,7 +27,9 @@ author:
   pronouns         : "she/her"  
   bio              : "PhD student in Biostatistics"
   location         : "Houston,TX"
-  employer         : "UThealth | MD Anderson Cancer Center"
+  School           : "UThealth"
+  employer         : "MD Anderson Cancer Center"
+
   uri              : # URL
   email            : "nkui@mdanderson.org" 
 
