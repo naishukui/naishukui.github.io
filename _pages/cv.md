@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Curriculum Vitae(https://naishukui.github.io/files/CV.pdf).
+
 Education
 ======
 * Ph.D in Biostatistics, University of Texas Health Science Center, Houston, 2026 (expected)
