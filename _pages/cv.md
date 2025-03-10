@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae(https://naishukui.github.io/files/CV.pdf).
+Curriculum Vitae(https://naishukui.github.io/files/NKUI_CV.pdf).
 
 Education
 ======
