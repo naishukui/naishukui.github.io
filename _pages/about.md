@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About
 I am a Ph.D. student in Biostatistics and Data Science at University of Texas Health Science Center and a PhD trainee at MD Anderson Cancer Center. I received my BS in Pharmaceutical Engineering from Southeast University and my MS in Biostatistics from New York University.
 
 My research focuses on statistical genetics and computational approaches to understanding the genetic basis of complex diseases.
