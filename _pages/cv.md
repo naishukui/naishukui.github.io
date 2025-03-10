@@ -21,7 +21,7 @@ Work experience
 ======
 
 * Biostatistician II
-  * Icahn School of Medicine at Mount Sinai, New York,2022
+  * Icahn School of Medicine at Mount Sinai, New York, 2022
   * Baim Insitutuite for Clinical Research, Boston, 2021-2022
 * Statistical Programmer
   * Baim Insitutuite for Clinical Research, Boston, 2019-2021
