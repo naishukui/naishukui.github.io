@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Naishu Kui"
+  name             : "Naishu Kui(隗乃书)"
   pronouns         : "she/her"  
   bio              : "PhD student in Biostatistics"
-  location         : "Houston,TX"
+  location         : "Houston, TX"
   employer         : "UThealth"
   #employer         : "MD Anderson Cancer Center"
   uri              : # URL
