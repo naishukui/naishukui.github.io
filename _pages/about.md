@@ -12,4 +12,4 @@ I am a Ph.D. student in Biostatistics and Data Science at University of Texas He
 
 My research focuses on statistical genetics and computational approaches to understanding the genetic basis of complex diseases.
 
-In my free time, I enjoy movies(favorite directors: Eric Rhomer, Hong Sang-soo,Hamaguchi Ryūsuke) and music(favorite musician: Sheena Ringo), tennis and swimming.
+In my free time, I enjoy movies(favorite directors: Éric Rohmer, Hong Sang-soo, Hamaguchi Ryūsuke) and music (favorite musician: Sheena Ringo), tennis and swimming.
