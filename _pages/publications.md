@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 
-## Publications
 
 
 ### Peer-Reviewed Journal Articles
