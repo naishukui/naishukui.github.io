@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Biostatistics and Data Science at University of Texas Health Science Center and a PhD trainee at MD Anderson Cancer Center, supervised by [Professor Ryan Sun](https://ryanrsun.github.io./). I received my BS in Pharmaceutical Engineering from Southeast University and my MS in Biostatistics from New York University.
+I am a Ph.D. student in Biostatistics and Data Science at University of Texas Health Science Center and a Ph.D. trainee at MD Anderson Cancer Center, supervised by [Professor Ryan Sun](https://ryanrsun.github.io./). I received my BS in Pharmaceutical Engineering from Southeast University and my MS in Biostatistics from New York University.
 
 My research interests lie in developing novel statistical methodology to understand the genetic basis of complex diseases.
 
