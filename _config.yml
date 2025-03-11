@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Naishu Kui(隗乃书)"
+  avatar           : "profile.png"
+  name             : "Naishu Kui (隗乃书)"
   pronouns         : "she/her"  
   bio              : "PhD student in Biostatistics"
   location         : "Houston, TX"
