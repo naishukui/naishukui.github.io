@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Biostatistics and Data Science at University of Texas Health Science Center and a Ph.D. trainee at MD Anderson Cancer Center, supervised by [Professor Ryan Sun](https://ryanrsun.github.io./). I received my BS in Pharmaceutical Engineering from Southeast University and my MS in Biostatistics from New York University.
 
-My research interests lie in developing novel statistical methodology to understand the genetic basis of complex diseases.
+My research interests lie in developing statistical models that deepen our understanding of how genetics influence disease. My work focuses on making these models more robust and applicable to real-world, large-scale genetic data, leveraging high-performance computing to handle complexity. My dissertation aims to enhance the robustness and translational impact of germline genetics studies.
 
 In my free time, I enjoy movies (favorite directors of all time: Éric Rohmer, Hong Sang-soo, Hamaguchi Ryūsuke) and music (favorite musician in recent years: Sheena Ringo), tennis and swimming.
 
