@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-### Peer-Reviewed Journal Articles
+### Journal Articles
 - Zhu, H., Choi, J., **Kui, N.**, Yang, T., Wei, P., Li, D., Sun, R. (2024). Identification of pancreatic cancer germline risk variants with effects that are modified by smoking. *JCO Precision Oncology.*
 - Bahrambeigi, V., Lee, J. J., Branchi, V., Rajapakshe, K. I., Xu, Z., **Kui, N.**, Dhebat, S. (2024). Transcriptomic profiling of plasma extracellular vesicles enables reliable annotation of the cancer-specific transcriptome and molecular subtype. *Cancer Research.*
 - Jallouk, A. P., **Kui, N.**, Sun, R., Westin, J. R., Steiner, R. E., Nair, R., Nastoupil, L. J., et al. (2024). Effect of delayed cell infusion in patients with large B-cell lymphoma treated with chimeric antigen receptor T-cell therapy. *Haematologica.*
